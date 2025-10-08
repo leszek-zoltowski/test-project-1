@@ -1,0 +1,1 @@
+print("czy ten git kurwa działa")
